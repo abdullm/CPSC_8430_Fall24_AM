@@ -1,7 +1,7 @@
 # CPSC_8430_Fall24_AM_HW1
 Contents of HW1 of the Deep Learning course (CPSC 8430 Fall 2024 CU). All the codes are written in jupyter notebook and simply can be run in jupyter notebook.
 
-Code Description:
+# Code Description:
 HW_1_1a.ipynb: Simulate a Function
 HW_1_1b.ipynb: Train on actual tasks
 HW_1_2a.ipynb: Visualize the optimization process
